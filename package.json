@@ -1,0 +1,42 @@
+{
+  "name": "ultimatetemplate-v2",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "aphrodite": "^2.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-anchor-link-smooth-scroll": "^1.0.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "react-app-polyfill": "^1.0.6",
+    "@storybook/react": "^5.1.9",
+    "@babel/plugin-transform-runtime": "^7.6.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "ie 11"
+    ]
+  },
+  "keywords": [],
+  "description": ""
+}
