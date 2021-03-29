@@ -13,7 +13,7 @@ class App extends Component {
           <Route exact path="/list">
             <div>
               pxCode Screen List: <br />
-              <Link to="/Box">Box</Link>
+              <Link to="/Box">Box 2</Link>
             </div>
           </Route>
           <Route exact path="/" component={Box} />
